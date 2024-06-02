@@ -1,0 +1,115 @@
+{
+  "product": "United States Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebrate the first day of the new year."
+    },
+    {
+      "title": "Martin Luther King Jr. Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-15T12:00:00",
+      "endDate": "2024-01-15T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "purple",
+      "description": "Commemorate the civil rights leader."
+    },
+    {
+      "title": "Presidents' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-02-19T12:00:00",
+      "endDate": "2024-02-19T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "teal",
+      "description": "Honoring all U.S. presidents."
+    },
+    {
+      "title": "Memorial Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-27T12:00:00",
+      "endDate": "2024-05-27T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "red",
+      "description": "Remembering and honoring the military personnel who died in service to the United States."
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-07-04T12:00:00",
+      "endDate": "2024-07-04T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebrating the independence of the United States."
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-02T12:00:00",
+      "endDate": "2024-09-02T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebrating the American labor movement and the works and contributions of laborers to the development and achievements of the United States."
+    },
+    {
+      "title": "Columbus Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-10-14T12:00:00",
+      "endDate": "2024-10-14T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "amber",
+      "description": "Commemorating Christopher Columbus's landing in the Americas on October 12, 1492."
+    },
+    {
+      "title": "Veterans Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-11T12:00:00",
+      "endDate": "2024-11-11T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "green",
+      "description": "Honoring military veterans who have served in the United States Armed Forces."
+    },
+    {
+      "title": "Thanksgiving Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-28T12:00:00",
+      "endDate": "2024-11-28T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "orange",
+      "description": "Giving thanks for the blessing of the harvest and of the preceding year."
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "United States Government",
+      "product": "United States Public Holidays 2024",
+      "style": "red",
+      "description": "Celebrating the birth of Jesus Christ."
+    }
+  ]
+}
